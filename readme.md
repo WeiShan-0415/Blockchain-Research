@@ -59,3 +59,9 @@ Topology 3 had the lowest stale block rate and fastest propagation.
 Topology 4 had similar propagation to Topology 3 but a higher stale block rate.
 
 Topology selection impacts blockchain performance significantly, affecting propagation speed and stale block generation. The best topology depends on the balance between propagation efficiency and stale block minimization.
+
+# Reference
+
+The following github link is the simulator that is used in this experiment
+https://github.com/simewu/blockchain-simulator
+
